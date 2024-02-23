@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros-vm/ROS_Lidar/devel/setup.sh
