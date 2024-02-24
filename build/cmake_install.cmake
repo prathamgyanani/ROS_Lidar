@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/ros-vm/ROS_Lidar/build/gtest/cmake_install.cmake")
+  include("/home/ros-vm/ROS_Lidar/build/ydlidar/cmake_install.cmake")
   include("/home/ros-vm/ROS_Lidar/build/ydlidar_ros_driver/cmake_install.cmake")
 
 endif()
